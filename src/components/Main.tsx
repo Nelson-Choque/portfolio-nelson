@@ -4,7 +4,7 @@ export default function Main() {
   return (
     <>
       <Element name="section-main" className="py-16">
-        <div className="grid p-4 mx-auto text-white min-h-screen-80 w-fit place-content-center text-start sm:min-h-screen-90 ">
+        <div className="grid p-4 mx-auto text-white min-h-screen-70 w-fit place-content-center text-start sm:min-h-screen-90 ">
           <h2 className="text-4xl font-bold sm:text-6xl">Nelson Choque</h2>
           <h3 className="mt-2 text-2xl font-medium sm:text-3xl text-acid">
             Desarrollador de software

@@ -5,7 +5,7 @@
 
 @layer components{
     .container {
-      @apply max-w-screen-xl w-full mx-auto;
+      @apply w-full max-w-screen-xl mx-auto;
     }
     .bg-primary {
         background-color: #293F77;
@@ -34,6 +34,9 @@
         @apply p-4 rounded-2xl font-medium
     }
 
+    .min-h-screen-70{
+        min-height: 70vh;
+    }
     .min-h-screen-80{
         min-height: 80vh;
     }
