@@ -31,6 +31,41 @@ export const Projects = () => {
               </a>
             </article>
           </section>
+          <h2 className="p-4 text-4xl font-bold text-center text-white">
+            Diseños
+            <section className="grid max-w-screen-lg gap-4 mx-auto mt-8 sm:rounded-none sm:gap-0 sm:grid-cols-2 ">
+              <img
+                className="transition-transform hover:scale-110 rounded-2xl sm:rounded-none"
+                src="/images/img-ncode.PNG"
+                alt=""
+              />
+              <img
+                className="transition-transform hover:scale-110 rounded-2xl sm:rounded-none"
+                src="/images/img-ham.PNG"
+                alt=""
+              />
+              <img
+                className="transition-transform hover:scale-110 rounded-2xl sm:rounded-none"
+                src="/images/img-sooke.PNG"
+                alt=""
+              />
+              <img
+                className="transition-transform hover:scale-110 rounded-2xl sm:rounded-none"
+                src="/images/img-jimcat.PNG"
+                alt=""
+              />
+              <img
+                className="transition-transform hover:scale-110 rounded-2xl sm:rounded-none"
+                src="/images/img-drinks.PNG"
+                alt=""
+              />
+              <img
+                className="transition-transform hover:scale-110 rounded-2xl sm:rounded-none"
+                src="/images/img-pokemon.PNG"
+                alt=""
+              />
+            </section>
+          </h2>
         </Element>
       </div>
     </>
