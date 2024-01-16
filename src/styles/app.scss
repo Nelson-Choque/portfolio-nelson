@@ -1,0 +1,12 @@
+@import "navbar";
+
+html {
+  scroll-behavior: smooth;
+}
+
+.main {
+  @media (min-width: 640px) {
+    display: grid;
+    grid-template-columns: max-content 1fr;
+  }
+}

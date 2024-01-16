@@ -1,0 +1,48 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer components{
+    .container {
+      @apply max-w-screen-xl w-full mx-auto;
+    }
+    .bg-primary {
+        background-color: #293F77;
+    }
+    .bg-secundary{
+        
+        background-color: #3B4F81;
+    }
+    .bg-primary-2{
+        
+        background-color: #334B88;
+    }
+    .text-primary {
+        color: #293F77;
+    }
+    .text-secundary{
+        
+        color: #3B4F81;
+    }
+    .text-acid{
+        
+        color: #BCCBF1;
+    }
+
+    .btn{
+        @apply p-4 rounded-2xl font-medium
+    }
+
+    .min-h-screen-80{
+        min-height: 80vh;
+    }
+    .min-h-screen-90{
+        min-height: 90vh;
+    }
+
+    .icon{
+    @apply text-2xl
+    }
+  }
+  
