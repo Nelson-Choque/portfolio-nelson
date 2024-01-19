@@ -26,7 +26,7 @@ export const AboutMe = () => {
               <p> 2020 - 2023 </p>
             </div>
             <a
-              href="/cv-choque-nelson.pdf"
+              href="/cv-nelson-choque-2024.pdf"
               target="_blank"
               className="inline-block mx-auto mt-8 text-white btn bg-primary"
             >
