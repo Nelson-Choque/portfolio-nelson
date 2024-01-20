@@ -42,12 +42,34 @@ export const Projects = () => {
               <div className="mt-4 text-white">
                 <h2 className="text-2xl font-semibold ">Cianse</h2>
                 <p className="mt-2">
-                  Responsive design, Corrección de bugs, adición de la sección
-                  servicios
+                  Cianse, es una Empresa especialista en maquila de empaques
                 </p>
               </div>
               <a
                 href="https://cianse.net/"
+                className="inline-block mt-4 text-white btn bg-primary"
+                target="_blank"
+              >
+                Visitar Pagina
+              </a>
+            </article>
+            <article>
+              <div className="overflow-hidden bg-white border-4 h-80 rounded-2xl border-sky-900">
+                <img
+                  className="object-cover h-full"
+                  src="/images/buscador-gifts.PNG"
+                  alt=""
+                />
+              </div>
+              <div className="mt-4 text-white">
+                <h2 className="text-2xl font-semibold ">BeGifs</h2>
+                <p className="mt-2">
+                  BeGifs, es una pagina diseñada para que las personas puedan
+                  buscar gifs de manera facil y rapida.
+                </p>
+              </div>
+              <a
+                href="https://begifs.netlify.app/"
                 className="inline-block mt-4 text-white btn bg-primary"
                 target="_blank"
               >
