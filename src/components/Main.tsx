@@ -11,10 +11,17 @@ export default function Main() {
           </h3>
           <section className="flex ">
             <article className="p-2 pl-0">
-              <i className="fa-brands fa-github icon"></i>
+              <a href="https://github.com/Nelson-Choque/" target="_blank">
+                <i className="fa-brands fa-github icon"></i>
+              </a>
             </article>
             <article className="p-2">
-              <i className="fa-brands fa-linkedin icon"></i>
+              <a
+                href="https://www.linkedin.com/in/nelson-choque-huallpa-b6b4252b0/"
+                target="_blank"
+              >
+                <i className="fa-brands fa-linkedin icon"></i>
+              </a>
             </article>
           </section>
 
