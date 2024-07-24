@@ -20,13 +20,20 @@ export const AboutMe = () => {
             <h3 className="mt-4 text-2xl font-bold text-white">Educacion</h3>
             <div className="mt-2 text-white">
               <p className="text-lg font-medium">
+                Universitario | Ingenieria Empresarial y Sitemas | USIL
+              </p>
+              <p>Estudiante</p>
+              <p> 2024 - actualmente </p>
+            </div>
+            <div className="mt-2 text-white">
+              <p className="text-lg font-medium">
                 Tecnico | Desarrollo de sistemas de informacion | IDAT
               </p>
               <p>Egresado</p>
               <p> 2020 - 2023 </p>
             </div>
             <a
-              href="/cv-nelson-choque-2024.pdf"
+              href="/cv-choque-nelson-2024.pdf"
               target="_blank"
               className="inline-block mx-auto mt-8 text-white btn bg-primary"
             >
