@@ -11,11 +11,14 @@ export const AboutMe = () => {
               Sobre mi
             </h2>
             <p className="mt-4 text-white ">
-              Soy desarrollador web con solidos conocimientos en diseño y
-              programación. Mi enfoque proactivo y versatilidad me permiten
-              abordar proyectos de manera efectiva. Estoy comprometido a
-              continuar aprendiendo y en busca de nuevas oportunidades para
-              crecer profesionalmente.
+              Soy desarrollador de software con formación en Ingeniería
+              Empresarial y Sistemas, He trabajado en diversos proyectos que
+              abarcan desde el desarrollo Frontend hasta la creación de
+              aplicaciones completas. Mi experiencia laboral incluye roles en
+              tanto como Full Stack Developer como Frontend Developer,
+              contribuyendo al mantenimiento y desarrollo de componentes,
+              endpoints, y la integración de APIs con tecnologías como Next.js,
+              React, y Python
             </p>
             <h3 className="mt-4 text-2xl font-bold text-white">Educacion</h3>
             <div className="mt-2 text-white">
@@ -33,7 +36,7 @@ export const AboutMe = () => {
               <p> 2020 - 2023 </p>
             </div>
             <a
-              href="/cv-choque-nelson-2024.pdf"
+              href="/cv-nelson-choque-huallpa.pdf"
               target="_blank"
               className="inline-block mx-auto mt-8 text-white btn bg-primary"
             >
